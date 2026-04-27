@@ -140,7 +140,7 @@
 			"updated": "2026-04-25",
 			"downloadURL": "https://github.com/WillWunderhorn/AfflictionsAndBuffs/releases/download/Latest/AfflictionsAndBuffs.dll",
 			"modURL": "https://github.com/WillWunderhorn/AfflictionsAndBuffs",
-			"description": "This mod adds 3 more afflictions and 4 buffs!\n\nLulledByTheWind - You've spent a long time in the fresh air. Your lungs have filled with the lulling music of the wind... it would feel so nice to close your eyes, just for a second...\nStarving - You've been starving for quite a while, your body is working itself to the bone\nHowDidYouDoThat? - Easter egg (probably nobody will ever see it)\n\nBuffs:\nBurningHeart - You have added fuel to a strong, warm fire. Its comforting heat still lingers in your heart\nDetermination - The weather is clear! You feel much better\nFogsEmbrace - You are surrounded by heavy fog. Wildlife is less aware of your presence\nLittleHeart - You are not alone in this cold world... Somewhere in the woods, there is another heart. Unlike the others, this one is full of kindness and love. Knowing it's there makes you stronger. Do not give up! An unseen companion believes in you!",
+			"description": "This mod adds 3 new afflictions and 4 buffs!",
 			"tags": "afflictions, buffs, new",
 			"categories": [
 				"Quality of Life",
@@ -151,7 +151,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/WillWunderhorn/AfflictionsAndBuffs/blob/master/The%20Long%20Dark%20Screenshot%202026.04.26%20-%2010.04.48.10.png"
+				"https://github.com/WillWunderhorn/LittleWolfStorm_tld_modlist/blob/main/images/raw/prev.png"
 			],
 			"dependencies": [
 				"ModComponent",
