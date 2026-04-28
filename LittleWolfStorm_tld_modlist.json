@@ -151,7 +151,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/WillWunderhorn/LittleWolfStorm_tld_modlist/main/AfflictionsAndBuffsPrev.png"
+				"https://github.com/WillWunderhorn/LittleWolfStorm_tld_modlist/raw/main/AfflictionsAndBuffsPrev.png"
 			],
 			"dependencies": [
 				"ModComponent",
