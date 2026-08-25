@@ -174,7 +174,48 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.5",
+			"name": "TranslatedTextures",
+			"displayName": "TranslatedTextures (Rus)",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-08-25",
+			"updated": "2026-08-25",
+			"downloadURL": "https://github.com/WillWunderhorn/TranslatedTextures/releases/download/Latest/TranslatedTextures.dll",
+			"modURL": "https://github.com/WillWunderhorn/TranslatedTextures",
+			"description": "All Textures are now translated!",
+			"tags": "Textures, gameplay, visuals, environment, graphics",
+			"categories": [
+				"Gameplay",
+				"Graphics"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/WillWunderhorn/TranslatedTextures/refs/heads/master/TranslatedTextures(Russian).png"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "I might have missed something",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/WillWunderhorn/TranslatedTextures/releases/download/Latest/TranslatedTextures.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
-	
 }
