@@ -177,13 +177,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.1",
+			"version": "1.2.2",
 			"name": "TranslatedTextures",
 			"displayName": "TranslatedTextures (Rus)",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-08-25",
-			"updated": "2026-08-26",
+			"updated": "2026-09-03",
 			"downloadURL": "https://github.com/WillWunderhorn/TranslatedTextures/releases/download/Latest/TranslatedTextures.dll",
 			"modURL": "https://github.com/WillWunderhorn/TranslatedTextures",
 			"description": "All Textures are now translated!",
@@ -201,7 +201,7 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "I might have missed something",
+				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
