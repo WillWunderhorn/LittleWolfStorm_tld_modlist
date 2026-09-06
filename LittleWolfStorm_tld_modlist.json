@@ -123,8 +123,8 @@
 				"mlversion": "0.7.2"
 			},
 			"updater": {
-				"enable": false,
-				"downloads": []
+				"enable": true,
+				"downloads": [https://github.com/WillWunderhorn/NoMoreCabinFever/releases/download/Latest/NoMoreCabinFever.dll]
 			},
 			"aliases": [],
 			"replaces": []
@@ -169,8 +169,8 @@
 				"mlversion": "0.7.2"
 			},
 			"updater": {
-				"enable": false,
-				"downloads": []
+				"enable": true,
+				"downloads": [https://github.com/WillWunderhorn/AfflictionsAndBuffs/releases/download/Latest/AfflictionsAndBuffs.dll]
 			},
 			"aliases": [],
 			"replaces": []
@@ -209,7 +209,7 @@
 				"mlversion": "0.7.2"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": [
 					"https://github.com/WillWunderhorn/TranslatedTextures/releases/download/Latest/TranslatedTextures.dll"
 				]
