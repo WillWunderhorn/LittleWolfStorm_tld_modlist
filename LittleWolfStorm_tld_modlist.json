@@ -209,7 +209,7 @@
 				"mlversion": "0.7.2"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": [
 					"https://github.com/WillWunderhorn/TranslatedTextures/releases/download/Latest/TranslatedTextures.dll"
 				]
