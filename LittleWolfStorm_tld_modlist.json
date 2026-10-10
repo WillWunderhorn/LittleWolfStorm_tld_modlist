@@ -220,6 +220,50 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "v1.0.0",
+			"name": "AbsoluteCinema",
+			"displayName": "Absolute Cinema",
+			"author": "LittleWolfStorm",
+			"previousAuthors": "",
+			"released": "2026-10-10",
+			"updated": "2026-10-10",
+			"downloadURL": "https://github.com/WillWunderhorn/AbsoluteCinema/releases/download/Latest/AbsoluteCinema.dll",
+			"modURL": "https://github.com/WillWunderhorn/AbsoluteCinema",
+			"description": "Adds 10 handy filmmaking and cinematic tools!<br>Includes a built-in tutorial!<br>Thanks to Système Éther for suggesting some of the mechanics!",
+			"tags": "filming, camera, recording, cinematic, tools, ",
+			"categories": [
+				"Graphics",
+				"Overhaul"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/WillWunderhorn/AbsoluteCinema/refs/heads/master/DirectorModePreview.webp"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "May contain some bugs that I missed!",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/WillWunderhorn/AbsoluteCinema/releases/download/Latest/AbsoluteCinema.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
