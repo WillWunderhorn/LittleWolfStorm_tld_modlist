@@ -152,7 +152,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/WillWunderhorn/AfflictionsAndBuffs/refs/heads/master/AfflictionsAndBuffsPrev.png"
+				"https://raw.githubusercontent.com/WillWunderhorn/AfflictionsAndBuffs/refs/heads/master/AfflictionsAndBuffsPrev.webp"
 			],
 			"dependencies": [
 				"ModComponent",
