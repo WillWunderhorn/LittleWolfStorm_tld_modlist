@@ -264,6 +264,49 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Just Zoom",
+			"displayName": "Just Zoom",
+			"author": "LittleWolfStorm",
+			"previousAuthors": "",
+			"released": "2026-10-14",
+			"updated": "2026-10-14",
+			"downloadURL": "https://github.com/WillWunderhorn/JustZoom/releases/download/Latest/JustZoom.dll",
+			"modURL": "https://github.com/WillWunderhorn/JustZoom/releases/tag/Latest",
+			"description": "Just zoom from Absolute Cinema mod, press (Z) to zoom and use mouse wheel to zoom in or out",
+			"tags": "zoom, camera, just, view",
+			"categories": [
+				"Gameplay",
+				"Graphics",
+				"Overhaul"
+			],
+			"gameversion": [],
+			"images": [
+				"https://github.com/WillWunderhorn/JustZoom/blob/master/JustZoomPreview.webp?raw=true"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/WillWunderhorn/JustZoom/releases/download/Latest/JustZoom.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
