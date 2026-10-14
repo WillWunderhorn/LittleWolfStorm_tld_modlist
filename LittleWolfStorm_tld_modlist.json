@@ -276,7 +276,7 @@
 			"updated": "2026-10-14",
 			"downloadURL": "https://github.com/WillWunderhorn/JustZoom/releases/download/Latest/JustZoom.dll",
 			"modURL": "https://github.com/WillWunderhorn/JustZoom/releases/tag/Latest",
-			"description": "Just zoom from Absolute Cinema mod Press (Z) to zoom and use mouse wheel to zoom in or out",
+			"description": "Just zoom from Absolute Cinema mod Press (Z) to zoom and use mouse wheel to zoom in or out<br>Please don't use it with AbsoluteConema mod",
 			"tags": "zoom, camera, just, view",
 			"categories": [
 				"Gameplay",
