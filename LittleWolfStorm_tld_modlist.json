@@ -247,7 +247,7 @@
 			],
 			"status": {
 				"working": true,
-				"beta": true,
+				"beta": false,
 				"patchnotes": "May contain some bugs that I missed!",
 				"notes": "",
 				"issues": ""
