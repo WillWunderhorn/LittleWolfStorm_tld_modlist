@@ -223,16 +223,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.5",
+			"version": "1.6.0",
 			"name": "AbsoluteCinema",
 			"displayName": "Absolute Cinema",
 			"author": "LittleWolfStorm",
 			"previousAuthors": "",
 			"released": "2026-10-10",
-			"updated": "2026-10-27",
+			"updated": "2026-11-01",
 			"downloadURL": "https://github.com/WillWunderhorn/AbsoluteCinema/releases/download/Latest/AbsoluteCinema.dll",
 			"modURL": "https://github.com/WillWunderhorn/AbsoluteCinema",
-			"description": "Adds 12 handy filmmaking and cinematic tools!<br>Includes a built-in tutorial!<br>Thanks to Système Éther for suggesting some of the mechanics!",
+			"description": "Adds 13 handy filmmaking and cinematic tools!<br>Includes a built-in tutorial!<br>Thanks to Système Éther for suggesting some of the mechanics!",
 			"tags": "filming, camera, recording, cinematic, tools, ",
 			"categories": [
 				"Graphics",
@@ -253,7 +253,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
